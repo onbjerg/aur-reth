@@ -1,8 +1,8 @@
 # Maintainer: Oliver Nordbjerg <hi@notbjerg.me>
 
 pkgname=reth
-pkgver=v1.3.10
-_tag=v1.3.10
+pkgver=v1.3.12
+_tag=v1.3.12
 pkgrel=1
 pkgdesc="A fast implementation of the Ethereum protocol in Rust"
 arch=('x86_64')
